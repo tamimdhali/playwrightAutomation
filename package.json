@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "runTest": "npx playwright test && npx playwright show-report"
+    "runTest": "npx playwright test swagLabsCleanHook1.spec.js && npx playwright show-report"
   },
   "keywords": [],
   "author": "",
